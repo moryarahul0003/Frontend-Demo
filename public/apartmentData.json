@@ -1,0 +1,217 @@
+{"list":[
+    {   "id":1,
+        "name": "227  Xynn Street - Cedium apartment",
+        "description": "Great downtown accommodation for family or group of friends.",
+        "numberOfRooms": 3,
+        "occupancy": {
+            "minValue": 1,
+            "maxValue": 4
+        },
+        "floorLevel": 5,
+        "floorSize": {
+            "value": 81,
+            "unitCode": "MTK"
+        },
+        "numberOfBathroomsTotal": 2,
+        "numberOfBedrooms": 2,
+        "petsAllowed": true,
+        "isActive": true,
+        "yearBuilt": 2005,
+        "telephone": "+1-617-312-9783",
+        "address": {
+            "addressCountry": "US",
+            "addressLocality": "West Roxbury",
+            "addressRegion": "MA",
+            "postalCode": "02132",
+            "streetAddress": "227  Lynn Street"
+        },
+        "latitude": 42.2742,
+        "longitude": -71.1430
+    },
+
+    {
+        "id":2,
+        "name": "227  Bynn Street - Xedium apartment",
+        "description": "Great downtown accommodation for family or group of friends.",
+        "numberOfRooms": 3,
+        "occupancy": {
+            "minValue": 1,
+            "maxValue": 4
+        },
+        "floorLevel": 17,
+        "floorSize": {
+            "value": 81,
+            "unitCode": "MTK"
+        },
+        "numberOfBathroomsTotal": 2,
+        "numberOfBedrooms": 2,
+        "petsAllowed": false,
+        "isActive": false,
+        "yearBuilt": 2005,
+        "telephone": "+1-617-312-9783",
+        "address": {
+            "addressCountry": "US",
+            "addressLocality": "West Kouuu",
+            "addressRegion": "MA",
+            "postalCode": "02132",
+            "streetAddress": "227  Bynn Street"
+        },
+        "latitude": 42.2742,
+        "longitude": -71.1430
+    },
+    {
+        "id":3,
+        "name": "227  Aynn Street - Zedium apartment",
+        "description": "Great downtown accommodation for family or group of friends.",
+        "numberOfRooms": 3,
+        "occupancy": {
+            "minValue": 1,
+            "maxValue": 4
+        },
+        "floorLevel": 11,
+        "floorSize": {
+            "value": 81,
+            "unitCode": "MTK"
+        },
+        "numberOfBathroomsTotal": 2,
+        "numberOfBedrooms": 2,
+        "petsAllowed": true,
+        "isActive": true,
+        "yearBuilt": 2005,
+        "telephone": "+1-617-312-9783",
+        "address": {
+            "addressCountry": "US",
+            "addressLocality": "Qewe Tjljl",
+            "addressRegion": "NB",
+            "postalCode": "02132",
+            "streetAddress": "227  Aynn Street"
+        },
+        "latitude": 12.2742,
+        "longitude": -71.1430
+    },
+    {
+        "id":4,
+        "name": "227  Hynn Street - Dedium apartment",
+        "description": "Great downtown accommodation for family or group of friends.",
+        "numberOfRooms": 2,
+        "occupancy": {
+            "minValue": 1,
+            "maxValue": 4
+        },
+        "floorLevel": 12,
+        "floorSize": {
+            "value": 81,
+            "unitCode": "MTK"
+        },
+        "numberOfBathroomsTotal": 2,
+        "numberOfBedrooms": 2,
+        "petsAllowed": false,
+        "isActive": true,
+        "yearBuilt": 2019,
+        "telephone": "+1-617-312-9783",
+        "address": {
+            "addressCountry": "US",
+            "addressLocality": "Eghgh Ojkghh",
+            "addressRegion": "UYI",
+            "postalCode": "02132",
+            "streetAddress": "227  Hynn Street"
+        },
+        "latitude": 42.2742,
+        "longitude": -71.1430
+    },
+    {
+        "id":5,
+        "name": "227  Lynn Street - Medium apartment",
+        "description": "Great downtown accommodation for family or group of friends.",
+        "numberOfRooms": 8,
+        "occupancy": {
+            "minValue": 1,
+            "maxValue": 4
+        },
+        "floorLevel": 9,
+        "floorSize": {
+            "value": 79,
+            "unitCode": "MTK"
+        },
+        "numberOfBathroomsTotal": 2,
+        "numberOfBedrooms": 2,
+        "petsAllowed": false,
+        "isActive": true,
+        "yearBuilt": 2018,
+        "telephone": "+1-617-312-9783",
+        "address": {
+            "addressCountry": "US",
+            "addressLocality": "West Roxbury",
+            "addressRegion": "MA",
+            "postalCode": "02132",
+            "streetAddress": "227  Lynn Street"
+        },
+        "latitude": 22.2742,
+        "longitude": -71.1430
+    },
+    {
+        "id":6,
+        "name": "227  Uynn Street - Giiioi apartment",
+        "description": "Great downtown accommodation for family or group of friends.",
+        "numberOfRooms": 7,
+        "occupancy": {
+            "minValue": 1,
+            "maxValue": 4
+        },
+        "floorLevel": 26,
+        "floorSize": {
+            "value": 91,
+            "unitCode": "MTK"
+        },
+        "numberOfBathroomsTotal": 2,
+        "numberOfBedrooms": 2,
+        "petsAllowed": true,
+        "isActive": false,
+        "yearBuilt": 2020,
+        "telephone": "+1-617-312-9783",
+        "address": {
+            "addressCountry": "US",
+            "addressLocality": "West Roxbury",
+            "addressRegion": "MA",
+            "postalCode": "02132",
+            "streetAddress": "227  Uynn Street"
+        },
+        "latitude": 89.2742,
+        "longitude": -71.1430
+    },
+    {
+        "id":7,
+        "name": "227  Iynn Street - pedium apartment",
+        "description": "Great downtown accommodation for family or group of friends.",
+        "numberOfRooms": 5,
+        "occupancy": {
+            "minValue": 1,
+            "maxValue": 4
+        },
+        "floorLevel": 19,
+        "floorSize": {
+            "value": 81,
+            "unitCode": "MTK"
+        },
+        "numberOfBathroomsTotal": 2,
+        "numberOfBedrooms": 2,
+        "petsAllowed": true,
+        "isActive": true,
+        "yearBuilt": 2005,
+        "telephone": "+1-617-312-9783",
+        "address": {
+            "addressCountry": "US",
+            "addressLocality": "West Roxbury",
+            "addressRegion": "MA",
+            "postalCode": "02132",
+            "streetAddress": "227  Lynn Street"
+        },
+        "latitude": 102.2742,
+        "longitude": -71.1430
+    }
+
+    ]
+}
+
+
+    

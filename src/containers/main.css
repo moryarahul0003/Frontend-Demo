@@ -1,0 +1,58 @@
+.header-section {
+    text-align: center;
+    top:20px;
+    padding: 20px 30px 20px 30px;
+    font-size: 30px;
+    letter-spacing: 1.23;
+    font-weight: 700;
+    color: #333;
+}
+
+.text-centre{
+    text-align: center;
+    display: block;
+    justify-content: space-between;
+}
+
+.m-right-5{
+    margin-right:5px !important;
+}
+.m-left-30{
+    margin-left: 30px;
+}
+
+.text-field-wrapper{
+    text-align: center;
+}
+
+
+
+
+
+.evs-ul-userdetails {
+    margin: 0px 0px 10px 0px;
+    padding: 0px;
+    list-style: none;
+  }
+  .evs-ul-userdetails li{ display: flex;}
+  .evs-ul-userdetails li div{    
+    flex: 1 1;
+    word-break: break-word;
+    font-size: 17px;
+    margin: 2px 0px 2px 0px;
+    font-family: Roboto;
+    color: #171f32;
+}
+  .evs-ul-userdetails li div:last-child{ text-align: right;}
+  .evs-ul-addressetails {
+    margin: 10px 0px 0px 0px;
+    padding: 0px;
+    list-style: none;
+  }
+
+
+
+
+
+
+
